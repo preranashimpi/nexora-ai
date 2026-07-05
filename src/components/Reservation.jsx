@@ -1,6 +1,6 @@
 function Reservation() {
   return (
-    <section className="reservation-section py-5">
+    <section  id="reservation" className="reservation-section py-5">
       <div className="container">
 
         <div className="text-center mb-5">
